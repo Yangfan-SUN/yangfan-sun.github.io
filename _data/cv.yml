@@ -1,0 +1,108 @@
+cv:
+  name: Yangfan Sun
+  label: M.S.E. Student in Applied Mathematics and Statistics
+  email: ysun228@jh.edu
+  location: Baltimore, MD
+  image: ""
+  summary: M.S.E. student at Johns Hopkins University working on optimization, statistics, and machine learning theory.
+
+  social_networks:
+    - network: GitHub
+      username: Yangfan-SUN
+
+  sections:
+    Research Interests:
+      - name: Optimization, Statistics, and Machine Learning Theory
+        icon: fa-solid fa-infinity
+        keywords: "Stochastic optimization, finite-sample statistical theory, minimax theory, reliable learning and decision-making"
+
+    Education:
+      - institution: Johns Hopkins University
+        location: Baltimore, MD
+        area: Applied Mathematics and Statistics
+        studyType: M.S.E.
+        start_date: 2025-08
+        end_date: present
+        score: "GPA: 4.0/4.0"
+        highlights:
+          - "Thesis Advisor: Prof. Mateo Díaz"
+          - "PhD-level coursework: Nonlinear Optimization I (A+) & II (A+), Mathematics of Data Science (A+), Combinatorial Optimization (A), Stochastic Controls, Games and Learning (A-)"
+
+      - institution: The Chinese University of Hong Kong, Shenzhen
+        location: Shenzhen, China
+        area: Mathematics and Applied Mathematics
+        studyType: BSc
+        start_date: 2021-09
+        end_date: 2025-05
+        score: "Cumulative GPA: 3.46/4.00; Major GPA: 3.68/4.00"
+        highlights:
+          - "Stream: Applied Mathematics"
+          - "Dean's List (AY2023–24, AY2024–25)"
+
+    Research Experience:
+      - company: Johns Hopkins University
+        position: Research Assistant (Master's Thesis Research)
+        location: Baltimore, MD
+        start_date: 2026-03
+        end_date: present
+        summary: "Nonasymptotic Local Minimax Bounds for Decision-Dependent Stochastic Optimization"
+        highlights:
+          - "Supervised by Prof. Mateo Díaz (University of Chicago) and Prof. Liwei Jiang (Purdue University)"
+          - "Studying finite-sample statistical guarantees for decision-dependent stochastic optimization."
+          - "Developing stochastic optimization algorithms for estimating equilibrium points with optimal local minimax squared-error rates."
+          - "Investigating matching local minimax lower bounds to characterize nonasymptotic statistical optimality."
+
+      - company: Johns Hopkins University
+        position: Research Assistant
+        location: Baltimore, MD
+        start_date: 2026-01
+        end_date: 2026-04
+        summary: "Anytime-Valid Bounds for Clipped Gradient Descent"
+        highlights:
+          - "Supervised by Prof. Mateo Díaz (University of Chicago)"
+          - "Studying time-uniform high-probability convergence guarantees for stochastic gradient methods."
+          - "Analyzing convex, nonconvex, and quadratic-growth settings using martingale concentration and mixture-based techniques."
+          - "Analyzing clipped stochastic gradient descent under stochastic noise assumptions."
+
+      - company: Shenzhen Research Institute of Big Data
+        position: Research Assistant
+        location: Shenzhen, China
+        start_date: 2024-07
+        end_date: 2025-09
+        summary: "Diffusion MRI-Based Microstructural Modeling for Chronic Ischemic Stroke Data"
+        highlights:
+          - "Supervised by Prof. Xiang Wan"
+          - "Formulated and implemented biophysical diffusion MRI models for estimating latent cellular microstructure."
+          - "Developed numerical model-fitting and parameter-estimation procedures for noisy diffusion MRI data."
+          - "Conducted longitudinal statistical and imaging–clinical–proteomic association analyses."
+          - "Manuscript submitted to Stroke; under review."
+
+    Teaching Experience:
+      - company: Johns Hopkins University
+        position: Teaching Assistant — Nonlinear Optimization I (PhD-level)
+        location: Baltimore, MD
+        start_date: 2026-09
+        end_date: 2026-12
+        highlights:
+          - "Instructor: Prof. Shiqian Ma"
+          - "Assist with student questions, grading, and course support for first- and second-order methods in nonlinear optimization."
+
+    Service:
+      - company: Green Miles Environmental Protection Association
+        position: Vice President
+        location: Shenzhen, China
+        start_date: 2022-09
+        end_date: 2023-09
+        highlights:
+          - "Planned and organized multiple public welfare events."
+          - "Helped attract large-scale community participation in environmental protection projects and received the Best Community Award."
+
+    Skills:
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, Matlab, C++, R, Java"
+      - name: Tools
+        level: ""
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Linux, LaTeX"
